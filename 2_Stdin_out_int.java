@@ -9,6 +9,7 @@ public class Solution {
         int y = scan.nextInt();
 
         System.out.println(a);
-        System.out.println(a+"\n"+x+"\n"+y);
+        System.out.println(x);
+        System.out.println(y);
     }
 }
